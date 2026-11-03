@@ -34,7 +34,7 @@ export default function DeveloperPage() {
             <div className="relative w-full h-full rounded-[50%_50%_40%_60%_/_60%_40%_50%_50%] overflow-hidden border-2 border-[#4ADE80]/20 z-10">
               <Image 
                 src="https://f.top4top.io/p_3733w0g4e0.jpg" 
-                alt="SANN404 FORUM" 
+                alt="yukii" 
                 fill 
                 sizes="192px"
                 className="object-cover"
