@@ -34,7 +34,7 @@ export default function DeveloperPage() {
             <div className="relative w-full h-full rounded-[50%_50%_40%_60%_/_60%_40%_50%_50%] overflow-hidden border-2 border-[#4ADE80]/20 z-10">
               <Image 
                 src="https://f.top4top.io/p_3733w0g4e0.jpg" 
-                alt="yukii" 
+                alt="iki" 
                 fill 
                 sizes="192px"
                 className="object-cover"
@@ -43,7 +43,7 @@ export default function DeveloperPage() {
           </div>
 
           <div className="flex items-center justify-center gap-2 mb-2">
-            <h2 className="text-2xl font-bold text-white">yukii</h2>
+            <h2 className="text-2xl font-bold text-white">iki</h2>
             <CheckCircle2 className="w-6 h-6 text-blue-500 fill-blue-500/20" />
           </div>
 
