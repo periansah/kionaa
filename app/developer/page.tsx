@@ -73,7 +73,7 @@ export default function DeveloperPage() {
 
           {/* Buy me a coffee */}
           <a 
-            href="https://saweria.co/sannnforums"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="w-full max-w-sm flex items-center gap-4 bg-[#1C1C1E] hover:bg-[#2C2C2E] p-5 rounded-3xl transition-colors mb-8"
